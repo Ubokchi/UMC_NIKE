@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nav_home">홈</string>
+    <string name="nav_purchase">구매하기</string>
+    <string name="nav_wishlist">위시리스트</string>
+    <string name="nav_bag">장바구니</string>
+    <string name="nav_profile">프로필</string>
+    <string name="home_discover">Discover</string>
+    <string name="home_date">9월 4일 목요일</string>
+    <string name="home_main_image">홈 메인 이미지</string>
+    <string name="bag_empty_message">장바구니가 비어 있습니다.\n제품을 추가하면 여기에 표시 됩니다.</string>
+    <string name="bag_order">주문하기</string>
+</resources>
